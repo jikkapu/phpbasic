@@ -1,5 +1,8 @@
 <?php
 
+
+
+
 $car=array("toyota","honda","nissan","ford");
 print_r($car);
 echo '<hr>';

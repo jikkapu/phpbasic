@@ -25,7 +25,10 @@ and open the template in the editor.
             //boolean
             $d=true;
             
-            $arr=array("apple","papaya","orange");
+            $arr=array("delphi","php","java","javascript");
+            
+            
+            
             print_r($arr);
             echo '<hr>';
             echo $arr[2];
